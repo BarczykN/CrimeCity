@@ -1,0 +1,14 @@
+C:\Users\nbarc\OneDrive\Pulpit\Wysokoobiektówka\Game\Game\bin\Debug\netcoreapp3.1\Game.exe
+C:\Users\nbarc\OneDrive\Pulpit\Wysokoobiektówka\Game\Game\bin\Debug\netcoreapp3.1\Game.deps.json
+C:\Users\nbarc\OneDrive\Pulpit\Wysokoobiektówka\Game\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.json
+C:\Users\nbarc\OneDrive\Pulpit\Wysokoobiektówka\Game\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.dev.json
+C:\Users\nbarc\OneDrive\Pulpit\Wysokoobiektówka\Game\Game\bin\Debug\netcoreapp3.1\Game.dll
+C:\Users\nbarc\OneDrive\Pulpit\Wysokoobiektówka\Game\Game\bin\Debug\netcoreapp3.1\Game.pdb
+C:\Users\nbarc\OneDrive\Pulpit\Wysokoobiektówka\Game\Game\obj\Debug\netcoreapp3.1\Game.csproj.AssemblyReference.cache
+C:\Users\nbarc\OneDrive\Pulpit\Wysokoobiektówka\Game\Game\obj\Debug\netcoreapp3.1\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nbarc\OneDrive\Pulpit\Wysokoobiektówka\Game\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfoInputs.cache
+C:\Users\nbarc\OneDrive\Pulpit\Wysokoobiektówka\Game\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfo.cs
+C:\Users\nbarc\OneDrive\Pulpit\Wysokoobiektówka\Game\Game\obj\Debug\netcoreapp3.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\nbarc\OneDrive\Pulpit\Wysokoobiektówka\Game\Game\obj\Debug\netcoreapp3.1\Game.dll
+C:\Users\nbarc\OneDrive\Pulpit\Wysokoobiektówka\Game\Game\obj\Debug\netcoreapp3.1\Game.pdb
+C:\Users\nbarc\OneDrive\Pulpit\Wysokoobiektówka\Game\Game\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache

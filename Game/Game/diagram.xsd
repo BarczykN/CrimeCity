@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="diagram"
+    targetNamespace="http://tempuri.org/diagram.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/diagram.xsd"
+    xmlns:mstns="http://tempuri.org/diagram.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+</xs:schema>
